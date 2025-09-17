@@ -19,7 +19,7 @@ public class CWH_Lec_06 {
         System.out.print("Enter your Math Subject Marks : ");
         float Math = marks.nextFloat();
 
-//        Entering Chem Marks
+//        Entering Chem Marks || nice work Tora
         System.out.print("Enter your Chem Subject Marks : ");
         float Chem = marks.nextFloat();
 
