@@ -5,3 +5,5 @@
 ## lec 05 : Getting user input is Java
 
 ## lec 06 : Creating a percentage calculator
+
+## lec 07 : Operators and Expressions
