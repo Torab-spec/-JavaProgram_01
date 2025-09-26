@@ -19,3 +19,9 @@
 ## lec 12 : Chapter 2 : practice set
 
 ## lec 13 : Introduction to String
+
+## lec 14 : String method in Java
+
+## lec 15 : Chapter:3 - Practice set 
+
+## lec 16 : Java condition (if-else)
