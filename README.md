@@ -25,3 +25,9 @@
 ## lec 15 : Chapter:3 - Practice set 
 
 ## lec 16 : Java condition (if-else)
+
+## lec 17 : Relational and Logical operator
+
+## lec 18 : Switch Case Statement
+
+## lec 19 : Chapter:4 - Practice set
