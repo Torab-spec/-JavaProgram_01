@@ -31,3 +31,15 @@
 ## lec 18 : Switch Case Statement
 
 ## lec 19 : Chapter:4 - Practice set
+
+## lec 21 : Loops in Java
+
+## lec 22 : Do While loop
+
+## lec 23 : For loop
+
+## lec 24 : Break and Continue
+
+## lec 25 : Java loops -> practice set
+
+## lec 26 : Introduction to array   
