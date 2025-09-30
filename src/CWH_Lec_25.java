@@ -15,7 +15,6 @@ public class CWH_Lec_25 {
 
         int sum = 0;
         int m = 4;
-        int l = 0;
 
         for (int i = 0; i <= m; i++) {
             sum = sum + (2 * i);
