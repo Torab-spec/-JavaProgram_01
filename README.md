@@ -43,3 +43,13 @@
 ## lec 25 : Java loops -> practice set
 
 ## lec 26 : Introduction to array   
+
+## lec 27 : For-Each loop in java
+
+## lec 28 : Multidimensional Array
+
+## lec 29 : Practice set
+
+## lec 30 : Making IDE look amazing
+
+## lec 31 : Method in Java 
