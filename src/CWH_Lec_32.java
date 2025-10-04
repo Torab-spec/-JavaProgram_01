@@ -30,9 +30,9 @@ public class CWH_Lec_32 {
     static void tim (){
         System.out.println("Hello tim ");
     }
-    static int tim (int a){
+    static void tim (int a){
         System.out.println("Hello tim "+ a);
-        return a;
+
     }
 
     public static void main(String[] args) {
