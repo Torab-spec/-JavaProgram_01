@@ -55,3 +55,15 @@
 ## lec 31 : Method in Java 
 
 ## lec 32 : 
+
+## lec 33 :
+
+## lec 34 :
+
+## lec 35 :
+
+## lec 36 : Object oriented programing
+
+## lec 37 : Basic terminology in oops
+
+## lec 38 :
