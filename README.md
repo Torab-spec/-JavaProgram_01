@@ -1,5 +1,7 @@
 # JAVA PROGRAM HARRY
+
 # `____________________________________________`
+
 ## lec 04 : Java Literals
 
 ## lec 05 : Getting user input is Java
@@ -22,7 +24,7 @@
 
 ## lec 14 : String method in Java
 
-## lec 15 : Chapter:3 - Practice set 
+## lec 15 : Chapter:3 - Practice set
 
 ## lec 16 : Java condition (if-else)
 
@@ -42,7 +44,7 @@
 
 ## lec 25 : Java loops -> practice set
 
-## lec 26 : Introduction to array   
+## lec 26 : Introduction to array
 
 ## lec 27 : For-Each loop in java
 
@@ -52,9 +54,9 @@
 
 ## lec 30 : Making IDE look amazing
 
-## lec 31 : Method in Java 
+## lec 31 : Method in Java
 
-## lec 32 : 
+## lec 32 :
 
 ## lec 33 :
 
@@ -66,4 +68,12 @@
 
 ## lec 37 : Basic terminology in oops
 
-## lec 38 :
+## lec 38 : Creating our own java class
+
+## lec 39 : Basic Question on objects oriented programing
+
+## lec 40 : Access Modifier | getter and setter in Java
+
+## lec 41 : Exercise -2 | Solution and Shoutouts
+
+## lec 42 : Constructor in Java 
