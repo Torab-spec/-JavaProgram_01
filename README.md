@@ -77,3 +77,31 @@
 ## lec 41 : Exercise -2 | Solution and Shoutouts
 
 ## lec 42 : Constructor in Java 
+   
+## lec 43 :
+
+## lec 44 :
+
+## lec 45 :
+
+## lec 46 :
+
+## lec 47 :
+
+## lec 48 :
+
+## lec 49 :
+
+## lec 50 :
+
+## lec 51 :
+
+## lec 53 : Abstract class and Abstract method
+
+## lec 54 : Introduction to interface
+
+## lec 55 : Interfaces vs Abstract Class
+
+## lec 56 : Why multiple interface is not allowed in java
+
+## lec 57 : Interface implementation and default methods
