@@ -105,3 +105,5 @@
 ## lec 56 : Why multiple interface is not allowed in java
 
 ## lec 57 : Interface implementation and default methods
+
+## lec 58 : Inheritance in interface
